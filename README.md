@@ -10,7 +10,7 @@
 - 
 - 💬 Ask me about AWS, DevOps, Microservices and Business Coms. 
 
-- 📫 How to reach me tiwarilindis93@gmail.com
+- 📫 How to reach me tiwarilindis93@gmail.com, mamangouli@gmail.com
 - 😄 New to IT, passionate about DevOps | Quick learner, music lover, and fun-driven
 - ⚡ DevOps enthusiast | Quick learner | Bringing energy, curiosity, and creativity to every project
 
