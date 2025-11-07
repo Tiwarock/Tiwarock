@@ -13,7 +13,7 @@
 - 😄 New to IT, passionate about DevOps | Quick learner, music lover, and fun-driven
 - ⚡ DevOps enthusiast | Quick learner | Bringing energy, curiosity, and creativity to every project
 
-  ## Language and Tools.## 🛠️ Tools & Technologies
+  ## Language and Tools.🛠️
 
 <p align="left">
   <!-- AWS Cloud -->
