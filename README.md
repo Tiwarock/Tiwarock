@@ -15,6 +15,8 @@
 
   ## Language and Tools.🛠️
 
+## 🛠️ Tools & Technologies
+
 <p align="left">
   <!-- AWS Cloud -->
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/amazonaws.svg" alt="AWS" width="40"/>
