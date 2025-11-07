@@ -15,41 +15,30 @@
 
   ## Language and Tools.🛠️
 
-## 🛠️ Tools & Technologies
+## ## 🛠️ Tools & Technologies
 
 <p align="left">
-  <!-- AWS Cloud -->
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/amazonaws.svg" alt="AWS" width="40"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/awsec2.svg" alt="EC2" width="40"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/awss3.svg" alt="S3" width="40"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/awslambda.svg" alt="Lambda" width="40"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/awselasticbeanstalk.svg" alt="Elastic Beanstalk" width="40"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/awscloudformation.svg" alt="CloudFormation" width="40"/>
+  <!-- Cloud -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="45" height="45" alt="AWS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="45" height="45" alt="Kubernetes" />
+  
+  <!-- CI/CD -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="45" height="45" alt="Jenkins" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git" />
+  
+  <!-- Infrastructure as Code -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="45" height="45" alt="Terraform" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="45" height="45" alt="Ansible" />
 
-  <!-- Containers & Orchestration -->
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/docker.svg" alt="Docker" width="40"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/kubernetes.svg" alt="Kubernetes" width="40"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/eks.svg" alt="EKS" width="40"/>
-
-  <!-- CI/CD & Automation -->
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/githubactions.svg" alt="GitHub Actions" width="40"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/jenkins.svg" alt="Jenkins" width="40"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ansible.svg" alt="Ansible" width="40"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/terraform.svg" alt="Terraform" width="40"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/packer.svg" alt="Packer" width="40"/>
-
-  <!-- Monitoring & Logging -->
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/prometheus.svg" alt="Prometheus" width="40"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/grafana.svg" alt="Grafana" width="40"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/elastic.svg" alt="ELK Stack" width="40"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/amazoncloudwatch.svg" alt="CloudWatch" width="40"/>
-
-  <!-- Dev Tools & Scripting -->
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/git.svg" alt="Git" width="40"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" alt="GitHub" width="40"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linux.svg" alt="Linux" width="40"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gnu.svg" alt="Bash" width="40"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/python.svg" alt="Python" width="40"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/yaml.svg" alt="YAML" width="40"/>
+  <!-- Scripting & OS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45" height="45" alt="Bash" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python" />
+  
+  <!-- Monitoring -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="45" height="45" alt="Grafana" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="45" height="45" alt="Prometheus" />
 </p>
 -->
