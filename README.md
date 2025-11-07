@@ -15,8 +15,6 @@
 
   ## Language and Tools.🛠️
 
-## ## 🛠️ Tools & Technologies
-
 <p align="left">
   <!-- Cloud -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="45" height="45" alt="AWS" />
