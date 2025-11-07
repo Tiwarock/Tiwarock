@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 - 🌱 I am passionate about technical and enterprise architecture, leveraging the cloud solution and technology to solve business challenges at all levels.
 - 👯 
-- 🤔 
+- 🤔 enterprise architecture, leveraging the cloud solution and technology to solve business challenges at all levels.
 - 💬 
 - 📫 
 - 😄 
