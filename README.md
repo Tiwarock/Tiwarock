@@ -1,8 +1,5 @@
 ## Hi there 👋 RILINDIS T. TIWA 
-<p align="center">
-  <img src="https://github.com/yourusername/yourusername/blob/main/A_digital_illustration_in_a_semi-realistic_style_d.png" width="400" alt="Tech Woman at Work"/>
-</p>
-<p 
+
 I'm a DevOps enthusiast who loves learning new things, solving problems, and bringing ideas to life with technology.  
 ☕ Fueled by coffee | 🎧 Inspired by music | 💡 Always adapting and growing
 </p>
