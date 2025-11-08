@@ -1,5 +1,37 @@
 ## Hi there 👋 RILINDIS T. TIWA 
+<p align="center">
+  <img src="https://github.com/yourusername/yourrepo/blob/main/your-image.png" alt="Tech Woman at Work" width="400"/>
+</p>
 
+<h3 align="center">😄⚡ Hi there!</h3>
+
+<p align="center">
+I'm a DevOps enthusiast who loves learning new things, solving problems, and bringing ideas to life with technology.  
+☕ Fueled by coffee | 🎧 Inspired by music | 💡 Always adapting and growing
+</p>
+
+---
+
+## 🛠️ Tools & Technologies
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="45" height="45" alt="AWS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="45" height="45" alt="Kubernetes" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="45" height="45" alt="Terraform" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="45" height="45" alt="Ansible" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="45" height="45" alt="Jenkins" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45" height="45" alt="Bash" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="45" height="45" alt="Grafana" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="45" height="45" alt="Prometheus" />
+</p>
+
+---
+
+<p align="center">
+📫 Connect with me on <a href="https://linkedin.com/in/your-link">LinkedIn</a>  
+</p>
 
 <!—    
 
