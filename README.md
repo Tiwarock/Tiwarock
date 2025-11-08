@@ -1,5 +1,5 @@
 ## Hi there 👋 RILINDIS T. TIWA 
-https://chatgpt.com/s/m_690f6ab286e881918a62f91c7091be83
+
 
 <!—    
 
